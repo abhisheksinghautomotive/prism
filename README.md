@@ -174,7 +174,7 @@ prism/
 
 ## Related Project
 
-**[verdict](https://github.com/abhishek-singh/verdict)** — PR-gating test execution platform on AWS EKS. Same DevOps discipline, applied to CI/CD. Together they cover full-stack platform thinking: classic DevOps (verdict) + LLMOps (prism).
+**[verdict](https://github.com/abhisheksinghautomotive/verdict)** — PR-gating test execution platform on AWS EKS. Same DevOps discipline, applied to CI/CD. Together they cover full-stack platform thinking: classic DevOps (verdict) + LLMOps (prism).
 
 ---
 
